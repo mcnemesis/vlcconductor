@@ -1,0 +1,18 @@
+############################################
+# vlc-Conductor : that's it! conduct vlc to do yo biding!
+############################################
+
+After aquiring a free Kinect Sensor from the Imagine Cup Finals this Year (2011),
+having failed to win / buy me an Xbox 360, I decided to settle for nothing less!
+
+So, I set out to use my Kinect to give me a superior entertainment experience via VLC
+by enabling me to control my music - play, pause, volume+/-, next/prev, etc via the 
+newly acquired toy.
+
+Using the skills learnt from Clint Rutkas, I put together something called vlcconductor, n IT WORKS!
+
+Though, u might have to check the code n tweak a bit (mapping your VLC global-keyhooks to gestures in the callbacks)
+
+Or soon I'll post the default keystroke-gesture mappings,and some docs too.
+
+NOTE : the "VLCkonductor1.0" folder contains the Windows MSI files -  the generated installer

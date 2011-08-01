@@ -1,0 +1,39 @@
+﻿<Window x:Class="VLCkonductor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VLCkonductor © nemesisfixxed@gmail.com"
+        Height="288"
+        Width="356" Icon="/VLCkonductor;component/Images/icon.ico" Visibility="Visible" ResizeMode="NoResize" WindowStyle="ToolWindow" Background="Black" WindowStartupLocation="CenterScreen">
+    <Viewbox Stretch="Uniform">
+        <Grid>
+            <Image Name="videoImage"
+                   Width="640"
+                   Height="480"></Image>
+            <Canvas Background="Transparent">
+                <Ellipse Fill="Gray"
+                         Height="20"
+                         Width="20"
+                         Name="ellipseLeftHand"
+                         Stroke="White" />
+                <Ellipse Fill="Gray"
+                         Height="20"
+                         Width="20"
+                         Name="ellipseRightHand"
+                         Stroke="White" />
+                <Ellipse Fill="Gray"
+                         Height="20"
+                         Width="20"
+                         Name="ellipseHead"
+                         Stroke="White" />
+                <Ellipse Fill="Gray"
+                         Height="20"
+                         Width="20"
+                         Name="ellipseShoulderCentre"
+                         Stroke="White" />
+                <Image 
+                         
+                         Name="vlcHipCentre" Source="/VLCkonductor;component/Images/icon.ico" Visibility="Hidden" />              
+            </Canvas>
+        </Grid>
+    </Viewbox>
+</Window>

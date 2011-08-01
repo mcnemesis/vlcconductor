@@ -1,0 +1,14 @@
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\MainWindow.baml
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\MainWindow.g.cs
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\App.g.cs
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\VLCkonductor_MarkupCompile.cache
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\VLCkonductor.g.resources
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\VLCkonductor.Properties.Resources.resources
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\bin\Debug\VLCkonductor.exe
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\bin\Debug\VLCkonductor.pdb
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\VLCkonductor.exe
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\obj\x86\Debug\VLCkonductor.pdb
+C:\NemFiles\LABS\Kinect\MY HAX\VLCkonductor\VLCkonductor\bin\Debug\VLCkonductor.exe.config
